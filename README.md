@@ -15,7 +15,7 @@ Human Resources department requests to the Data Analytics Team:
 - ***Power BI***: Popular visualization tool from Microsoft; used to construct the dashboard to understand absenteeism in the company.
 
 # Analysis
-### 1. Provide a list of **Healthy Individuals and Low Absenteeism** for the company's Health Incentive Program
+### 1. Provide a list of **Healthy Individuals and Low Absenteeism** for the company's Health Incentive Program:
 **SQL Code Query:**
 ```sql
 SELECT
@@ -34,8 +34,12 @@ WHERE
 ORDER BY
 	ID;
 ```
+#### List of healthy employees
+![Healthy Individuals](img/pic1_healthy_emp.png)
+#### Wage Calculation
+![compensation](img/pic3_bonus_calculation.png)
 
-### 2. **Calculate a Wage Increase or Annual Compensation** for Non-Smokers.
+### 2. **Calculate a Wage Increase or Annual Compensation** for Non-Smokers:
 **SQL Code Query:**
 ```sql
 SELECT
@@ -45,8 +49,10 @@ FROM
 WHERE
 	Social_smoker = 0;
 ```
+#### Count of Non-Smokers
+![non-smokers](img/pic2_non_smokers.png)
 
-### 3. **Build a Dashboard** for HR to understand **absenteeism** at work, as the main KPI, and how it might relate to different employee variables and look at trends over time.
+### 3. **Build a Dashboard** for HR to understand **absenteeism** at work, as the main KPI, and how it might relate to different employee variables and look at trends over time:
 **SQL Code Query to Optimize Data for Dashboard:**
 ```sql
 SELECT 
@@ -105,5 +111,7 @@ LEFT JOIN reasons r
 ORDER BY
 	a.ID;
 ```
+#### HR Dashboard Preview
+![dashboard](img/hr_dashb_preview.png)
 
 
