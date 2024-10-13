@@ -124,7 +124,7 @@ ORDER BY
 	a.ID;
 ```
 ### HR Dashboard Preview
-![dashboard](img/hr_dashb.png)
+![dashboard](img/hr_dash.png)
 
 **Possible Actions:**
 - HR Staff can derive insights from this dashboard such as looking at employee categories and how they affect absenteeism on average.
