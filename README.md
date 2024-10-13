@@ -65,7 +65,7 @@ WHERE
 **Possible Actions:** 
 - These employees who are non-smokers and are therefore eligible for the wage/compensation increase can receive **around $0.69 per hour rate increase or $1,435.86 per year**, based on the budget.
 
-### 3. **Build a Dashboard** for HR to understand **absenteeism** at work, as the main KPI, and how it might relate to different employee variables; look at trends over time; view the distribution of the various reasons and relaionship with transportation expense:
+### 3. **Build a Dashboard** for HR to understand **absenteeism** at work, as the main KPI, and how it might relate to different employee variables; look at trends over time; view the distribution of the various reasons and relationship with transportation expense:
 **SQL Code Query to Optimize Data for Dashboard:**
 ```sql
 SELECT 
