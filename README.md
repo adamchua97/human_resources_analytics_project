@@ -16,6 +16,12 @@ Human Resources department requests to the Data Analytics Team:
 
 # Analysis
 ### 1. Provide a list of **Healthy Individuals and Low Absenteeism** for the company's Health Incentive Program:
+**Eligibility Requirements:**
+- Non-Drinker
+- Non-Smoker
+- Body Mass Index **Less Than 25**
+- Absenteeism Hours **Less Than the Average** of the Company
+
 **SQL Code Query:**
 ```sql
 SELECT
@@ -37,6 +43,9 @@ ORDER BY
 #### List of healthy employees
 ![Healthy Individuals](img/pic1_healthy_emp.png)
 
+**Possible Actions:**
+- Based on list, there are a total of 111 eligible employees. The total budget could provide a $450 bonus for each of them.
+- This data could be used to track the current healthy employees and monitor any changes of their health status.
 
 ### 2. **Calculate a Wage Increase or Annual Compensation** for Non-Smokers:
 **SQL Code Query:**
@@ -52,6 +61,8 @@ WHERE
 ![non-smokers](img/pic2_non_smokers.png)
 #### Wage Calculation
 ![compensation](img/pic3_bonus_calculation.png)
+
+**Possible Actions:** These employees who are non-smokers and are therefore eligible for the wage/compensation increase can receive around $0.69 per hour rate increase or $1,435.86 per year, based on the budget.
 
 ### 3. **Build a Dashboard** for HR to understand **absenteeism** at work, as the main KPI, and how it might relate to different employee variables and look at trends over time:
 **SQL Code Query to Optimize Data for Dashboard:**
