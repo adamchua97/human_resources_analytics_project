@@ -126,4 +126,12 @@ ORDER BY
 ### HR Dashboard Preview
 ![dashboard](img/hr_dashb_preview.png)
 
+**Possible Actions:**
+- HR Staff can derive insights from this dashboard such as looking at employee categories and how they affect absenteeism on average.
+  - Does education level of employees relate to how often they can be absent
+  - Do employees with more children tend to have more absenteeism on average due external obligations possibly
+  - Do health status or habits affect their ability to show up to work consistently
+- HR Staff can also look at time-related trends like the overall average hours of absence per month and which days of the week typically have higher average length of absences.
+- Lastly, they can look at the distribution of reasons for absences and if transportation expenses may have a hand in overall absenteeism.
+
 
