@@ -62,7 +62,8 @@ WHERE
 #### Wage Increase Calculation
 ![compensation](img/pic3_bonus_calculation.png)
 
-**Possible Actions:** These employees who are non-smokers and are therefore eligible for the wage/compensation increase can receive around $0.69 per hour rate increase or $1,435.86 per year, based on the budget.
+**Possible Actions:** 
+- These employees who are non-smokers and are therefore eligible for the wage/compensation increase can receive **around $0.69 per hour rate increase or $1,435.86 per year**, based on the budget.
 
 ### 3. **Build a Dashboard** for HR to understand **absenteeism** at work, as the main KPI, and how it might relate to different employee variables and look at trends over time:
 **SQL Code Query to Optimize Data for Dashboard:**
