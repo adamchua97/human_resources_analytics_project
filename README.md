@@ -44,7 +44,7 @@ ORDER BY
 ![Healthy Individuals](img/pic1_healthy_emp.png)
 
 **Possible Actions:**
-- Based on the list, there are a total of 111 eligible employees. The total budget could provide a $450 bonus for each of them.
+- Based on the list, there are a total of 111 eligible employees. The total budget could provide a **$450 bonus** for each of them.
 - This data could be used to track the current healthy employees and monitor any changes of their health status.
 
 ### 2. **Calculate a Wage Increase or Annual Compensation** for Non-Smokers:
