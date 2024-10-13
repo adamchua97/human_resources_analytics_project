@@ -36,8 +36,7 @@ ORDER BY
 ```
 #### List of healthy employees
 ![Healthy Individuals](img/pic1_healthy_emp.png)
-#### Wage Calculation
-![compensation](img/pic3_bonus_calculation.png)
+
 
 ### 2. **Calculate a Wage Increase or Annual Compensation** for Non-Smokers:
 **SQL Code Query:**
@@ -51,6 +50,8 @@ WHERE
 ```
 #### Count of Non-Smokers
 ![non-smokers](img/pic2_non_smokers.png)
+#### Wage Calculation
+![compensation](img/pic3_bonus_calculation.png)
 
 ### 3. **Build a Dashboard** for HR to understand **absenteeism** at work, as the main KPI, and how it might relate to different employee variables and look at trends over time:
 **SQL Code Query to Optimize Data for Dashboard:**
