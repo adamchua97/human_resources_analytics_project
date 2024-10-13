@@ -40,7 +40,7 @@ WHERE
 ORDER BY
 	ID;
 ```
-#### List of healthy employees
+#### List Of Healthy Employees
 ![Healthy Individuals](img/pic1_healthy_emp.png)
 
 **Possible Actions:**
