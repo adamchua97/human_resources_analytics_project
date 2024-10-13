@@ -59,7 +59,7 @@ WHERE
 ```
 #### Count of Non-Smokers
 ![non-smokers](img/pic2_non_smokers.png)
-#### Wage Calculation
+#### Wage Increase Calculation
 ![compensation](img/pic3_bonus_calculation.png)
 
 **Possible Actions:** These employees who are non-smokers and are therefore eligible for the wage/compensation increase can receive around $0.69 per hour rate increase or $1,435.86 per year, based on the budget.
