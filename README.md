@@ -123,7 +123,7 @@ LEFT JOIN reasons r
 ORDER BY
 	a.ID;
 ```
-#### HR Dashboard Preview
+### HR Dashboard Preview
 ![dashboard](img/hr_dashb_preview.png)
 
 
