@@ -4,9 +4,9 @@ This project analyzes employee data from a human resources related database, par
 # Scenario
 #### Human Resources Department requests to the Data Analytics Team:
 1. Provide a list of **Healthy Individuals and Low Absenteeism** for the company's Health Incentive Program.
-  - Total program budget is **$50,000**
+	- Total program budget is **$50,000**
 2. **Calculate a Wage Increase or Annual Compensation** for Non-Smokers.
-  - Insurance budget of **$985,000 for all Non-Smokers**
+	- Insurance budget of **$985,000 for all Non-Smokers**
 3. **Build a Dashboard** for HR to understand **absenteeism** at work, as the main KPI, and how it might relate to different employee variables and look at trends over time.
 
 # Tools Used
