@@ -2,7 +2,7 @@
 This project analyzes employee data from a human resources related database, particularly querying employee health information and absenteeism data to determine eligbility for programs providing bonuses. This project also provides insights into **employee absenteeism**, which is the main **key performance inidcator** in this analysis, and how different employee-related factors may affect it.
 
 # Scenario
-Human Resources department requests to the Data Analytics Team:
+#### Human Resources Department requests to the Data Analytics Team:
 1. Provide a list of **Healthy Individuals and Low Absenteeism** for the company's Health Incentive Program.
   - Total program budget is **$50,000**
 2. **Calculate a Wage Increase or Annual Compensation** for Non-Smokers.
