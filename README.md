@@ -128,7 +128,7 @@ ORDER BY
 ### HR Dashboard Preview
 ![dashboard](img/hr_dash.png)
 
-**Possible Actions:**
+**Next Steps:**
 - HR Staff can derive insights from this dashboard such as looking at employee categories and how they affect absenteeism on average.
   - Does education level of employees relate to how often they can be absent
   - Do employees with more children tend to have more absenteeism on average due external obligations possibly
@@ -137,7 +137,7 @@ ORDER BY
 - Lastly, they can look at the distribution of reasons for absences and if transportation expenses may have a hand in overall absenteeism.
 
 
-**Deriving Other Actionable Insights From This Type of Analysis**
+**Deriving Actionable Insights From This Type of Analysis**
 1. Understanding Frequency and Patterns
 	- Insight: Identify peak absenteeism days, weeks, or months.
 	- Action: Implement flexible work policies or plan extra coverage during peak times (e.g., flu season or post-holidays).
